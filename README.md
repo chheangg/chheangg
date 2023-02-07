@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chheangg</h1>
-<h3 align="center">A prospect of AUPP, a curriculum officer of WDC, and a soon-to-be full-stack developer</h3>
+<h3 align="center">A freshman of AUPP, a curriculum officer of WDC, and a soon-to-be full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chheangg&label=Profile%20views&color=0e75b6&style=flat" alt="chheangg" /> </p>
 
