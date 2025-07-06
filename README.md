@@ -1,6 +1,6 @@
 👋 Hey there
 
-I am an aspiring software engineer who loves to take on complex problem and solve them.
+I am an aspiring software engineer who loves to take on complex problem and solve them.  
 Currently exploring ML/AI, Infra and DevOPs.
 
 **experiences:**  
